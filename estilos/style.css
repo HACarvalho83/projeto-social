@@ -29,18 +29,19 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 634px;
     width: 311px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/Frame_S20FE.png') no-repeat;
 }
 
 iframe#tela {
     position: relative;
-    top: 81px;
-    left: 23px;
-    width: 265px;
-    height: 470px;
+    top: 15px;
+    left: 14px;
+    width: 282px;
+    height: 598px;
+    border-radius: 19px;
 }
 
 section#redes-sociais {
