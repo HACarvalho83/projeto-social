@@ -35,13 +35,29 @@ section#telefone {
     background: url('../imagens/Frame_S20FE.png') no-repeat;
 }
 
+div#statusbar {
+    position: relative;
+    top: 15px;
+    left: 14px;
+    width: 282px;
+    height: 23px;   
+    
+}
+
+div > img {
+    height: 100%;
+    width: 100%;
+    border-radius: 19px 19px 0px 0px;
+
+}
+
 iframe#tela {
     position: relative;
     top: 15px;
     left: 14px;
     width: 282px;
-    height: 598px;
-    border-radius: 19px;
+    height: 575px;
+    border-radius: 0px 0px 19px 19px;
 }
 
 section#redes-sociais {
